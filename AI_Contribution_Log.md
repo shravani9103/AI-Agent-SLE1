@@ -33,10 +33,8 @@ The assistance included:
 
 ### GitHub Copilot
 
-GitHub Copilot was installed as an AI-assisted coding tool.
-
-It may be used during later development for code suggestions and assistance. Any significant code generated or modified using Copilot will be reviewed and documented.
-
+ GitHub Copilot was installed as an AI-assisted coding tool.
+Copilot was not used to generate or modify the submitted code for this version of the project.
 ## Student Contribution
 
 The student:
